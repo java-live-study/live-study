@@ -21,4 +21,5 @@
 ## 11주차
 - [enum을 사용한 리팩터링 - 분기문 지우기](https://www.youtube.com/watch?v=X3DknCSmZtw&t=611s)  
 - [Java Enum 활용기](https://techblog.woowahan.com/2527/)    
-- [Enum 활용사례 3가지](https://jojoldu.tistory.com/137)    
+- [Enum 활용사례 3가지](https://jojoldu.tistory.com/137)  
+- [합성 애노테이션에 관한 질문 - 토비님 대답](https://www.inflearn.com/questions/825128/%EC%95%A0%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8%EC%9E%85%EB%8B%88%EB%8B%A4)  
