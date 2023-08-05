@@ -11,4 +11,5 @@
 ## 10주차
 - [Java Concurrency Evolution](http://homoefficio.github.io/2020/12/11/Java-Concurrency-Evolution/)  
 - [쉬운코드 - 스레드 종류가 참 많죠? 하드웨어 스레드, OS 스레드, 네이티브 스레드, 커널 스레드, 유저 스레드, 그린 스레드까지 한번에 정리해서 알려드립니다!!](https://www.youtube.com/watch?v=vorIqiLM7jc)  
+- [쉬운코드 - OS 프로세스 상태, 자바 스레드 상태](https://www.youtube.com/watch?v=_dzRW48NB9M&t=1s)  
 - [스레드 덤프 분석하기](https://d2.naver.com/helloworld/10963)  
