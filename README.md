@@ -13,3 +13,12 @@
 - [쉬운코드 - 스레드 종류가 참 많죠? 하드웨어 스레드, OS 스레드, 네이티브 스레드, 커널 스레드, 유저 스레드, 그린 스레드까지 한번에 정리해서 알려드립니다!!](https://www.youtube.com/watch?v=vorIqiLM7jc)  
 - [쉬운코드 - OS 프로세스 상태, 자바 스레드 상태](https://www.youtube.com/watch?v=_dzRW48NB9M&t=1s)  
 - [스레드 덤프 분석하기](https://d2.naver.com/helloworld/10963)  
+- [Virtual Thread란 무엇일까? - (1)](https://findstar.pe.kr/2023/04/17/java-virtual-threads-1/)  
+- [Virtual Thread란 무엇일까? - (2)](https://findstar.pe.kr/2023/07/02/java-virtual-threads-2/)  
+- [Java Virtual Threads](https://www.youtube.com/watch?v=MOgynY7VIJI)  
+- [Virtual Thread Deep Dive - Inside Java Newscast #23](https://www.youtube.com/watch?v=6dpHdo-UnCg&t=230s)
+  
+## 11주차
+- [enum을 사용한 리팩터링 - 분기문 지우기](https://www.youtube.com/watch?v=X3DknCSmZtw&t=611s)  
+- [Java Enum 활용기](https://techblog.woowahan.com/2527/)    
+- [Enum 활용사례 3가지](https://jojoldu.tistory.com/137)    
